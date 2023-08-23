@@ -11,7 +11,7 @@
 * Claim Coin page
 <img width="1440" alt="Screenshot 2023-08-23 at 8 42 57 AM" src="https://github.com/PrabalParihar/Transfer-Dapp/assets/62445763/15cf74d1-0c12-4738-a320-fd804d40b3e1">
 
-* Fund Transfer Dapp
+* Fund Transfer Page
 <img width="1440" alt="Screenshot 2023-08-23 at 8 55 39 AM" src="https://github.com/PrabalParihar/Transfer-Dapp/assets/62445763/523aefec-4b40-4fa7-9bad-e5efa210b23d">
 
 * Token Balance Page
